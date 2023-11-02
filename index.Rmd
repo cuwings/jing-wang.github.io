@@ -33,4 +33,6 @@ My cat is ted. This is ted:
 ![](images/ted.jpg)
 
 
+# Other stuff on this page
 
+dEFINITELY THERE IS [plotly](plotly.html) stuff!
