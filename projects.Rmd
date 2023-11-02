@@ -10,7 +10,6 @@ output:
 
 
 You can also still use R!
-library(tidyverse)
 
 ```{r}
 library(tidyverse)
